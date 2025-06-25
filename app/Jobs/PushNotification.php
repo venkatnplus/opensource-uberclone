@@ -5,7 +5,7 @@
 
 echo $url;
 
-    $FcmKey = 'AAAAv-qDHPw:APA91bGBDWCiERdaoOPJ5HamZ4PT8jzNd21NGRX-_ie1WC3AtjpdVTbakKdOrMQsLekxG4F49rqQvYhpXQzMmigFBL5obOrNZq2KJeBYWJIUUb5FYbRUG5Ks2wFJK42C2KK6ZjBahGW6';
+    $FcmKey = '';
     
     $image = null;
     if (array_key_exists('image',$this->body)) {

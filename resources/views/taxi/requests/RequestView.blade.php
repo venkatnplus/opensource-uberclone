@@ -894,7 +894,6 @@
     
 </script>
 
-<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwpTPjHhnVfQuq37V-Gc322b42qTKS-Io&libraries=drawing,places&callback=initMap" async defer>-->
 
 <script src="https://maps.googleapis.com/maps/api/js?key={{settingValue('geo_coder')}}&libraries=drawing,places,geometry&callback=initMap" async defer>    
 </script>

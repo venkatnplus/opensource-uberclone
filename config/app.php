@@ -147,7 +147,7 @@ return [
 
     'cipher' => 'AES-256-CBC',
 
-    'map_key' => env('MAP_KEY', 'AIzaSyBCz72j0RI0d1fcHNqQ2oX3_L_P4VpZcSI'),
+    'map_key' => env('MAP_KEY', ''),
 
     /*
     |--------------------------------------------------------------------------
